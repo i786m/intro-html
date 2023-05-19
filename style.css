@@ -1,5 +1,5 @@
 *{
-    background-color: darkslategray;
+    background-color: rgb(51, 94, 94);
     margin: 0;
 }
 
@@ -42,7 +42,7 @@ footer{
 .grid>div{
     background-color: black;
     padding: 20px;
-    border: 1px solid red; 
+    border: 1px solid yellowgreen; 
   }
   
 
